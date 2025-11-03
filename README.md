@@ -5,7 +5,7 @@ This repository contains my submission for the **IBM Data Science** course proje
 
 ## Files
 - [Extracting and Visualising Stock Data.ipynb](./Extracting_and_Visualising_Stock_Data.ipynb) — Jupyter Notebook (code + markdown)
-- [Extracting and Visualising Stock Data.html](./Extracting_and_Visualising_Stock_Data.html) — HTML version with plots and outputs
+- [Extracting and Visualising Stock Data.html](./Extracting_and_Visualising_Stock_Data.html) — Downloadable HTML version with plots and outputs
 
 ## Description
 The notebook extracts stock data for Tesla and GameStop, scrapes quarterly revenue data, and visualizes both datasets using Plotly.
